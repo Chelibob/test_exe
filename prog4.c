@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+//Функция для определения количества разрядов числа
 int numberOfDigits(int number){
     int count;
     while (number > 0){
